@@ -1,2 +1,4 @@
-package comsparta.noticeboard.entity;public class Post {
+package comsparta.noticeboard.entity;
+
+public class Post {
 }
